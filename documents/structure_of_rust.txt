@@ -1,0 +1,16 @@
+myproject/
+  src/
+    main.rs
+    lib.rs
+    utils.rs
+    database/
+      mod.rs
+      mysql.rs
+      postgres.rs
+    web/
+      mod.rs
+      server.rs
+      router.rs
+  examples/
+    example1.rs
+    example2.rs
